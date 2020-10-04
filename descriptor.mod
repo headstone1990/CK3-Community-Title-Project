@@ -4,7 +4,7 @@ tags={
 	"Culture"
 	"Translation"
 }
-name="Community Title Project"
+name="Community Title Project fork"
 picture="thumbnail.png"
 supported_version="1.1.2"
 path="mod/CTP"
